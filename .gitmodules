@@ -1,3 +1,6 @@
 [submodule "roles/mariadb"]
 	path = roles/mariadb
 	url = https://github.com/lnsyyj/ansible-role-mariadb.git
+[submodule "roles/ansible-mariadb-galera-cluster"]
+	path = roles/ansible-mariadb-galera-cluster
+	url = https://github.com/lnsyyj/ansible-mariadb-galera-cluster.git
