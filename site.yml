@@ -1,0 +1,6 @@
+---
+
+- name: deploy mariadb on db servers
+  hosts: mariadb
+  roles:
+    - mariadb
